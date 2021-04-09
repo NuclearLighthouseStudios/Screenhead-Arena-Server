@@ -1,0 +1,14 @@
+{
+  "name": "screenheads-signalling-server",
+  "version": "1.0.0",
+  "description": "Websocket Signalling Server for Screenheads Arena",
+  "main": "server.js",
+  "dependencies": {
+    "ws": "^7.0.0"
+  },
+  "contributors": [
+    "Fabio Alessandrelli",
+    "Kris Slyka"
+  ],
+  "license": "MIT"
+}
